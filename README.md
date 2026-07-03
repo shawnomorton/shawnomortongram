@@ -1,4 +1,4 @@
-# Brandgram — Instagram-style UGC Portfolio
+# Shawnstagram — Instagram-style UGC Portfolio
 
 A static portfolio site styled like an Instagram profile. The home feed is a grid of **brands** you've worked with; clicking a brand opens its own "profile page" with the photos, videos, and stories you created for them.
 
